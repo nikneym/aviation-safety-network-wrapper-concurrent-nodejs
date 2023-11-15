@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "node ."
+  },
+  "name": "aviation-safety-network-wrapper-concurrent-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "node-html-parser": "^6.1.11"
+  }
+}
